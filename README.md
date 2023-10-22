@@ -12,3 +12,11 @@ Para que los datos esten disponibles en el colab es necesario obtener un archivo
 ![IMAGEN DESCRIPTIVA](https://github.com/AndresMedina117/Predicting_molecular_propertis/blob/4669c3d31d77d249c1e63f8a5e5c968a3acb3b59/images/K%20tutorial.jpg)
 ![IMAGEN DESCRIPTIVA](https://github.com/AndresMedina117/Predicting_molecular_propertis/blob/23dd30a4e5c0c6da0a6d567794f0a64394db4e5a/images/k%20tutorial2.png)
 * Luego de ejecutar las lineas anteiores se deben comprimir los datos descargados
+![IMAGEN DESCRIPTIVA](https://github.com/AndresMedina117/Predicting_molecular_propertis/blob/befc6ac89b7b34c2c0170a632fc004a26b23e983/images/k%20tutorial3.png)
+
+“Predicting Molecular Properties”: Enlace de la competencia de Kaggle:[ Predicting Molecular Properties | Kaggle](https://www.kaggle.com/competitions/champs-scalar-coupling/overview)
+
+ ## Videos
+
+*   Video Entrega 2:  
+*   Video Entrega final:
