@@ -9,3 +9,4 @@ Para que los datos esten disponibles en el colab es necesario obtener un archivo
 - Ir al perfil público -> configuraciones.
 - Buscar el titulo "API",se debe descargar el token dando click en "Generar nuevo token"
 - Se decargara un archivo .json el cual debe ser cargado como se ve en la imagen
+![IMAGEN DESCRIPTIVA](images/k tutorial.jpg)
