@@ -18,5 +18,5 @@ Para que los datos esten disponibles en el colab es necesario obtener un archivo
 
  ## Videos
 
-*   Video Entrega 2:  
+*   Video Entrega 2:  https://youtu.be/RpLqrDV_gl0
 *   Video Entrega final:
